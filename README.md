@@ -6,21 +6,35 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
+open a text file
 
 ### Step 2: 
- 
+read the opened text file
+
 ### Step 3: 
+assign 0 in  count 
+### Step 4:
+split the opened text file in a for loop and add +1 in the count for every loop
 
-### Step 4:  
-
-### Step 5: 
+### Step 5:
+print the count value
 
 ### Step 6: 
+end the program
 
 ## PROGRAM:
+```
+f=open("raja.txt",'r')
+m=f.read()
+count=0
+for i in m.split():
+     count+=1
+print(count)
+f.close()
+```
 
 ### OUTPUT:
-
+![output](/Screenshot%202023-07-25%20134323.png)
 
 
 ## RESULT:
