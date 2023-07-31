@@ -35,6 +35,8 @@ f.close()
 
 ### OUTPUT:
 ![output](/Screenshot%202023-07-25%20134323.png)
+![output](/Screenshot%202023-07-31%20192613.png)
+![output](/Screenshot%202023-07-31%20192709.png)
 
 
 ## RESULT:
